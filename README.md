@@ -1,6 +1,6 @@
 
 <div class='container'>
-<div><img align='right' style="height: auto; width: 45%; class="img" src="https://github-readme-stats.vercel.app/api?username=miraytopal&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+<div><img align='right' style="height: auto; width: 50%; class="img" src="https://github-readme-stats.vercel.app/api?username=miraytopal&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
 ### Hi there 👋 
 I'm Miray...
