@@ -11,11 +11,13 @@ I'm Miray...
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=miraytopal&color=db5a6b)
 
+
+<!--
+
 #### Connect with me:
 
 [![Linkedin]( https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>)](https://www.linkedin.com/in/miray-topal/)
 &nbsp;
-<!--
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.miraytopal92@gmail.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](miraytopal92@gmail.com)
