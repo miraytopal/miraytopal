@@ -1,5 +1,17 @@
-### Hi there 👋
+
+<div class='container'>
+<div><img align='right' class="img" src="https://github-readme-stats.vercel.app/api?username=miraytopal&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+
+### Hi there 👋 
+I'm Miray...
+--
+
+:heart: I am a passionate learner of Data Science
+
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=miraytopal&color=db5a6b)
+
+
 
 
 
@@ -24,6 +36,6 @@ Here are some ideas to get you started:
 
 
 
-[![Miray's github stats](https://github-readme-stats.vercel.app/api?username=miraytopal&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/miraytopal/github-readme-stats)
+
 
 
