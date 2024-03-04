@@ -6,7 +6,7 @@
 
 ### Hi there 👋 
 I'm Miray...
---
+
 
 :heart: I am a passionate learner of Data Science
 
